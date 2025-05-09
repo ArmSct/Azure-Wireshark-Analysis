@@ -18,11 +18,12 @@ Get logged into the Azure via the Azure Portal.
 
 ### 2. Resource Group
 Create a resource group named "RG-Network".
-![firefox_KCSFyMBDyq](https://github.com/user-attachments/assets/791d3eb3-0c71-43a1-aeb1-0bd80230c661)
+![Photos_l2lVu2mNPH](https://github.com/user-attachments/assets/6b0a5f09-bffd-456b-b1a7-315a5c93f6f5)
+
 
 ### 3. Virtual Machines
 Create two VMs, a Windows 10 VM and an Ubuntu VM, within the same Virtual Network.
-![firefox_OyYfZ4obc2](https://github.com/user-attachments/assets/373a5b35-23af-4187-8b6c-2a7884b4f1a9)
+![Photos_1FRbaZqDHg](https://github.com/user-attachments/assets/176f7fd6-9523-486f-b85d-a1e598aa4407)
 
 
 ### 4. RDP
