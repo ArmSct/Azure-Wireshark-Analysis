@@ -12,17 +12,21 @@ In this project I create two Virtual Machines (Windows 10 and Ubuntu Linux) in A
 ## Actions and Observations
 
 ### 1. Azure Portal
-#### Get logged into the Azure via the Azure Portal.
+Get logged into the Azure via the Azure Portal.
 
 
-2.Create a resource group named "RG-Network".
+### 2.
+Create a resource group named "RG-Network".
 
 
-3.Create two VMs, a Windows 10 VM and an Ubuntu VM, within the same Virtual Network.
+### 3.
+Create two VMs, a Windows 10 VM and an Ubuntu VM, within the same Virtual Network.
 
 
-4.Using Remote Desktop Protocol (RDP) connect to the Windows 10 VM.
+### 4.
+Using Remote Desktop Protocol (RDP) connect to the Windows 10 VM.
 
 
-5.On the Windows 10 VM download and install Wireshark.
+### 5.
+On the Windows 10 VM download and install Wireshark.
 
