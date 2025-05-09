@@ -11,7 +11,8 @@ In this project I create two Virtual Machines (Windows 10 and Ubuntu Linux) in A
 
 ## Actions and Observations
 
-1.Get logged into the Azure via the Azure portal.
+### 1. Azure Portal
+#### Get logged into the Azure via the Azure Portal.
 
 
 2.Create a resource group named "RG-Network".
