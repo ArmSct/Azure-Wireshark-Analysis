@@ -47,7 +47,7 @@ Launch Wireshark and begin capturing packets, then apply a filter to display onl
 Initiate a continuous ping between the Windows VM and Ubuntu VM.
 ![mstsc_xjr0FVozfh](https://github.com/user-attachments/assets/a4e9ad2b-0f43-4204-b4ee-70238ea00149)
 
-From Azure, add create a inbound rule in the Network Security Group that blocks all IMCP traffic.
+From Azure, add an inbound rule in the Network Security Group that blocks all IMCP traffic.
 ![firefox_QQ6gH1r4lm](https://github.com/user-attachments/assets/6401ac9c-2bc0-45cb-8a60-7eded92c6879)
 
 Observe how the continuous traffic between the VMs times out.
