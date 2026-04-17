@@ -8,7 +8,7 @@ In this project I create two Virtual Machines (Windows 10 and Ubuntu Linux) in A
 ## Technology Utilized
 - Microsoft Azure (deploying virtual machines)
 - RDP (Remote Desktop Protocol)
-- Wireshark (packet analyzer)
+- Wireshark (packet analyzer) 
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
