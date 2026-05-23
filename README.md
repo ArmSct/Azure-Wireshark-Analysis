@@ -11,7 +11,7 @@ In this project I create two Virtual Machines (Windows 10 and Ubuntu Linux) in A
 - Wireshark (packet analyzer) 
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
-
+ 
 ## Actions and Observations
 
 ### Azure Portal
