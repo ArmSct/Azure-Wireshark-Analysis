@@ -13,8 +13,8 @@ In this project I create two Virtual Machines (Windows 10 and Ubuntu Linux) in A
 - Ubuntu Server 20.04
  
 ## Actions and Observations
-
-### Azure Portal
+ 
+### Azure Portal 
 Get logged into the Azure via the Azure Portal.
 ![firefox_Vl6XNuGjJR](https://github.com/user-attachments/assets/a95f9d14-832a-47f0-8f74-20868d9e1995)
 
