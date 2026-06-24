@@ -2,7 +2,7 @@
 <img width="285" alt="307529604-e1b63531-1bbe-4d75-9f4f-320f98df52b4" src="https://github.com/user-attachments/assets/23110e1b-389f-4841-989d-5929a67692ed" />
 
 # Azure Wireshark Analysis
-In this project I create two Virtual Machines (Windows 10 and Ubuntu Linux) in Azure and observing network traffic types like ICMP, DHCP, and DNS using Wireshark. The project also includes configuring firewall rules and cleaning up the resources.
+In this project I create two Virtual Machines (Windows 10 and Ubuntu Linux) in Azure and observing network traffic types like ICMP, DHCP, and DNS using Wireshark. The project also includes configuring firewall rules and cleaning up the resources. 
  
  
 ## Technology Utilized  
